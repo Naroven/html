@@ -1,0 +1,19 @@
+.red-col {
+    background-color: red;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.img-carousel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 300px;
+}
+
+header {
+    background: url("../Img/fondo_kairos.png") fixed center;
+}
